@@ -33,11 +33,11 @@
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
 </p>
-<!-- Seu histórico de commits e atividade diária (100% Estável e Modo Escuro) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliam-santos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
 
-<hr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jwilliam-santos/jwilliam-santos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 📫 Connect with me
 
 <br>

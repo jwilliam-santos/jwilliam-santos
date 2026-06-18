@@ -33,9 +33,8 @@
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
 </p>
-<p align="center">
- 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-graph?username=jwilliam-santos&theme=tokyonight" alt="GitHub Contribution Grid" />
+<!-- Seu histórico de commits e atividade diária (100% Estável e Modo Escuro) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliam-santos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>

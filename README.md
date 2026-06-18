@@ -34,9 +34,6 @@
 
 <p align="left">
   <a href="mailto:jorgew965@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" alt="Gmail Badge" />
   </a>
 </p>

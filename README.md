@@ -37,9 +37,7 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jwilliam-santos/jwilliam-santos/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+
 📫 Connect with me
 
 <br>

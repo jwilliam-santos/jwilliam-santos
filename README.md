@@ -29,17 +29,16 @@
 
 <br>
 
+<br>
+
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
-  
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliam-santos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=jwilliam-santos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwilliam-santos&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ## 📫 Connect with me

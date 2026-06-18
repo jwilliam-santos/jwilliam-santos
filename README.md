@@ -1,32 +1,3 @@
-<!-- TÍTULO PRINCIPAL - JÁ FUNCIONA NA SUA IMAGEM -->
-# Hi there, I'm Jorge! 👋
-
-<br> <!-- Espaçamento para o cabeçalho (que está quebrado na imagem) -->
-
-<!-- SEÇÃO: SOBRE MIM (ABOUT ME) -->
-<!-- O seu já está bom, vou manter o mesmo formato, só adicionei um espaçamento -->
-## 🚀 About Me
-
-<br> <!-- Espaçamento para o topo -->
-
-*   🔭 I'm currently working on improving my software development skills.
-*   🌱 I'm always learning new things and exploring technologies.
-*   ⚡ Fun fact: I love solving puzzles and writing clean code.
-
-<hr> <!-- Linha horizontal de separação -->
-
-<!-- SEÇÃO: HABILIDADES (MY SKILLS & TOOLS) -->
-<!-- Esta é a parte que vamos mudar mais. Em vez de uma imagem quebrada, vamos usar badges -->
-## 🛠️ My Skills & Tools
-
-<br>Parabéns, Jorge! O seu README ficou fantástico. Se você olhar a imagem que eu gerei (`image_1.png`), você vai ver que todos os ícones quebrados foram substituídos por badges limpos e profissionais. É assim que o seu perfil vai aparecer agora.
-
-Aqui está exatamente como você deve copiar o código para que tudo funcione perfeitamente. Lembre-se de substituir `SEU_USUARIO_AQUI` pelo seu nome de usuário real do GitHub.
-
-### O Código Markdown para o seu README
-
-Copie todo este bloco de código e cole-o no seu arquivo `README.md` no seu repositório do GitHub:
-
 ```markdown
 # Hi there, I'm Jorge! 👋
 

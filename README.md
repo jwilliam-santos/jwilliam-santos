@@ -18,11 +18,9 @@
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,windows,vscode,linux" alt="My Skills" />
+  </a>
 </p>
 
 <hr>
@@ -32,8 +30,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_REAL&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_REAL&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <hr>

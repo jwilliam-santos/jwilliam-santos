@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santosL&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=jwilliam-santos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 

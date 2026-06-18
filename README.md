@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Jorge! 👋
 
-<!--
-**jwilliam-santos/jwilliam-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://giphy.com" width="400px">
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on improving my software development skills.
+- 🌱 I’m always learning new things and exploring technologies.
+- ⚡ Fun fact: I love solving puzzles and writing clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠️ My Skills & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</p>
+
+---
+
+
+- 📧 [Email](jorgew965@gmail.com)
 -->

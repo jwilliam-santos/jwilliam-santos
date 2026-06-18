@@ -29,18 +29,15 @@
 
 <br>
 
-<br>
-
 <p align="center">
-  
+  <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwilliam-santos&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph" />
+  <!-- A grade real de quadradinhos verdes (Contribution Matrix) -->
+  <img src="https://ghchart.rshah.org/jwilliam-santos" alt="jwilliam-santos GitHub Contributions Chart" />
 </p>
-
 ## 📫 Connect with me
 
 <br>

@@ -30,6 +30,13 @@
 
 ---
 
+### 📫 Connect with me
 
-- 📧 [Email](jorgew965@gmail.com)
---> (jorgew965@gmail.com)
+<p align="left">
+  <a href="mailto:jorgew965@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>

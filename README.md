@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,windows,vscode,linux" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,java,windows,linux,arch,vscode" alt="My Skills" />
   </a>
 </p>
 
@@ -34,9 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
 </p>
 <p align="center">
-  <!-- Grade com a cor invertida/ajustada para o modo escuro -->
-  <img src="https://ghchart.rshah.org/409ba5/jwilliam-santos" alt="jwilliam-santos GitHub Contributions Chart" />
+ 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-graph?username=jwilliam-santos&theme=tokyonight" alt="GitHub Contribution Grid" />
 </p>
+
+<hr>
 📫 Connect with me
 
 <br>

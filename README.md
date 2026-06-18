@@ -7,9 +7,9 @@
 
 <br>
 
-* 🔭 I'm currently working on improving my software development skills.
-* 🌱 I'm always learning new things and exploring technologies.
-* ⚡ Fun fact: I love solving puzzles and writing clean code.
+* I'm currently learning backend development and low-level software structure.
+* 🌱 I'm exploring Linux environments, terminal automation, and server hardware components.
+* ⚡ Fun fact: I enjoy rebuilding old computer hardware and training my logical thinking every day.
 
 <hr>
 
@@ -30,11 +30,17 @@
 <br>
 
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jwilliam-santos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliam-santos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<hr>
+<p align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=jwilliam-santos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ## 📫 Connect with me
 

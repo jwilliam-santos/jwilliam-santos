@@ -33,12 +33,11 @@
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7" alt="Top Langs" />
 </p>
-
 <p align="center">
-  <!-- A grade real de quadradinhos verdes (Contribution Matrix) -->
-  <img src="https://ghchart.rshah.org/jwilliam-santos" alt="jwilliam-santos GitHub Contributions Chart" />
+  <!-- Grade com a cor invertida/ajustada para o modo escuro -->
+  <img src="https://ghchart.rshah.org/409ba5/jwilliam-santos" alt="jwilliam-santos GitHub Contributions Chart" />
 </p>
-## 📫 Connect with me
+📫 Connect with me
 
 <br>
 

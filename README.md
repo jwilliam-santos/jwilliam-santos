@@ -25,25 +25,4 @@
 
 <hr>
 
-## 📊 GitHub Stats
 
-<br>
-
-<p align="center">
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwilliam-santos&theme=tokyonight&layout=compact&hide_border=true&langs_count=7"  />
-</p>
-<br>
-
-
-
-
-📫 Connect with me
-
-<br>
-
-<p align="left">
-  <a href="mailto:jorgew965@gmail.com@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>

@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,,windows,linux,arch,vscode" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,windows,linux,arch,vscode" alt="My Skills" />
   </a>
 </p>
 

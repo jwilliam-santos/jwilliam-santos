@@ -7,7 +7,7 @@
 
 <br>
 
-* I'm currently learning backend development and making games.
+* I'm currently learning OSDEV development and making games.
 * 🌱 I'm exploring Linux environments, terminal automation, and server hardware components.
 * ⚡ Fun fact: I enjoy rebuilding old computer hardware and training my logical thinking every day.
 

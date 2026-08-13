@@ -9,7 +9,7 @@
 
 * I'm currently learning OSDEV development and making games.
 * 🌱 I'm exploring Linux environments, terminal automation, and server hardware components.
-* ⚡ Fun fact: I enjoy rebuilding old computer hardware and training my logical thinking every day.
+* ⚡ Fun fact: I like teste linux distros every week in WSL.
 
 <hr>
 

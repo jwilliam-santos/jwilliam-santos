@@ -1,4 +1,3 @@
-
 # Hi there, I'm Jorge! 👋
 
 <br>
@@ -9,7 +8,7 @@
 
 * I'm currently learning OSDEV development and making games.
 * 🌱 I'm exploring Linux environments, terminal automation, and server hardware components.
-* ⚡ Fun fact: I like teste linux distros every week in WSL.
+* ⚡ Fun fact: I like to test Linux distros every week in WSL.
 
 <hr>
 
@@ -24,5 +23,16 @@
 </p>
 
 <hr>
+
+## 📊 Top Languages
+
+<br>
+
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Top Languages" />
+  </a>
+</p>
+
 
 

@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="https://github.com">
-    [![Jorge's GitHub stats](https://github-stats-extended.vercel.app/api?username=jwilliam-santos)](https://github.com/stats-organization/github-stats-extended)
+    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jwilliam-santos)](https://github.com/stats-organization/github-stats-extended)
 
   </a>
 </p>

@@ -30,7 +30,8 @@
 
 <p align="left">
   <a href="https://github.com">
-    <img src="https://vercel.app" alt="Top Languages" />
+    [![Jorge's GitHub stats](https://github-stats-extended.vercel.app/api?username=jwilliam-santos)](https://github.com/stats-organization/github-stats-extended)
+
   </a>
 </p>
 

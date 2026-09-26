@@ -7,7 +7,7 @@
 <br>
 
 * I'm currently learning OSDEV development and making games.
-* I'm dev C,C++,java,python,assembly x86_64,html and Css
+* I'm dev C,C++,Java,Python,ASM x86_64,Html and Css
 * 🌱 I'm exploring Linux environments.
 * ⚡ Fun fact: I like to test Linux distros every week in WSL.
 <hr>
